@@ -1,0 +1,10 @@
+{
+  "Jwt": {
+    "Key": "3bf2e1d75f9d4f36a8e68f8e30e25c06a52b974650d34b0bb2e398e20e8c52d8",
+    "Issuer": "CarWash",
+    "Audience": "CarWash",
+    "Subject": "CarWash",
+    "Ttl": 259200,
+    "RefreshTtl": 518400
+  }
+}

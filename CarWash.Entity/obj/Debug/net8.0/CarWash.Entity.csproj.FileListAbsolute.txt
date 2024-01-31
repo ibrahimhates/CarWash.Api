@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\bin\Debug\net8.0\CarWash.Entity.deps.json
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\bin\Debug\net8.0\CarWash.Entity.dll
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\bin\Debug\net8.0\CarWash.Entity.pdb
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\bin\Debug\net8.0\CarWash.Core.dll
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\bin\Debug\net8.0\CarWash.Core.pdb
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.AssemblyInfo.cs
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.sourcelink.json
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.csproj.CopyComplete
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.dll
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\refint\CarWash.Entity.dll
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\CarWash.Entity.pdb
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Entity\obj\Debug\net8.0\ref\CarWash.Entity.dll

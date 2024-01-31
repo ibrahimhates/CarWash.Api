@@ -1,0 +1,13 @@
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\bin\Debug\net8.0\CarWash.Core.deps.json
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\bin\Debug\net8.0\CarWash.Core.dll
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\bin\Debug\net8.0\CarWash.Core.pdb
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.AssemblyInfo.cs
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.sourcelink.json
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.dll
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\refint\CarWash.Core.dll
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\CarWash.Core.pdb
+C:\Users\ibrahim\Desktop\VeritabaniProje\CarWashAppBE\CarWash.Core\obj\Debug\net8.0\ref\CarWash.Core.dll

@@ -1,0 +1,70 @@
+version: '3.4'
+
+networks:
+  dev:
+    driver: bridge 
+
+services:
+  carwash-api:
+    depends_on:
+      - carwash-db
+      - elasticsearch
+    container_name: carwash-service
+    ports:
+      - "5000:80"
+    build:
+      context: .
+      dockerfile: ./CarWash.Api/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+    networks:
+      - dev
+    links:
+      - carwash-db
+      - elasticsearch
+
+  carwash-db:
+    image: mcr.microsoft.com/mssql/server:latest
+    container_name: carwash-db
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=admin123   
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"
+    restart: always
+    networks:
+      - dev
+    hostname: "carwash-db"
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.6.2
+    container_name: elasticsearchCarWash
+    restart: always
+    environment:
+        - xpack.security.enabled=false
+        - discovery.type=single-node
+        - ES_JAVA_OPTS=-Xms512m -Xmx512m
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    cap_add:
+      - IPC_LOCK
+    ports:
+        - 9200:9200
+        - 9300:9300
+    networks:
+        - dev
+    hostname: "elasticsearch"
+
+volumes:
+  carwash_data:
+
+  networks:
+  carwash:
+    external:
+      name: carwashapi
